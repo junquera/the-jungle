@@ -1,5 +1,7 @@
 # theJungle
 
+Type.Platform_Family.Variant
+
 1. goto base
 
 ```
